@@ -1,4 +1,4 @@
-module mygo.com
+module santosh.com/example
 
 go 1.17
 
