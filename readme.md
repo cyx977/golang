@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("Hello WOrld")
 }
 
-go mod 
+go run .
+
+go mod tidy

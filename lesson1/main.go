@@ -1,5 +1,7 @@
 package main
 
+//pkg.go.dev
+
 import (
 	"fmt"
 
@@ -7,5 +9,5 @@ import (
 )
 
 func main() {
-	fmt.Println(quote.Glass())
+	fmt.Println(quote.Go())
 }
